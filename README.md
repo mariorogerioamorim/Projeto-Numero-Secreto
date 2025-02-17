@@ -28,7 +28,3 @@ Este é um jogo simples de adivinhação de números implementado em JavaScript.
 - CSS
 - JavaScript
 - [ResponsiveVoice](https://responsivevoice.org/) para síntese de voz
-
-## Autor
-
-Este projeto foi desenvolvido por [Seu Nome].
